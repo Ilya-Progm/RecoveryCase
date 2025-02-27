@@ -1,1 +1,3 @@
 Hel_RecoveryCase
+Hel_RecoveryCase_OnlyReload
+Hel_RecoveryCase_OnlyRepair
